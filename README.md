@@ -1,3 +1,3 @@
 # app-dev
 My first repository
-![freaky cat](catfreak.png)
+![freaky cat](main/catfreak.png)
